@@ -121,3 +121,45 @@ npx playwright test tests/
 ---
 
 *Engineered with precision for dynamic, cross-network orchestrations.* Happy Posting!
+
+---
+
+## 🖼️ Application Gallery
+
+Here is a glimpse of the Socioboard interface in action:
+
+<details>
+<summary><b>Landing Page</b></summary>
+<br>
+<img src="screenshots/01-landing-page.png" alt="Landing Page" width="800"/>
+</details>
+
+<details>
+<summary><b>Dashboard Overview</b></summary>
+<br>
+<img src="screenshots/03-dashboard-overview.png" alt="Dashboard Overview" width="800"/>
+</details>
+
+<details>
+<summary><b>Analytics Deep Dive</b></summary>
+<br>
+<img src="screenshots/04-analytics-dashboard.png" alt="Analytics Dashboard" width="800"/>
+</details>
+
+<details>
+<summary><b>Media Vault & Uploader</b></summary>
+<br>
+<img src="screenshots/05-media-vault.png" alt="Media Vault" width="800"/>
+</details>
+
+<details>
+<summary><b>Settings & Social Integrations</b></summary>
+<br>
+<img src="screenshots/06-settings-integrations.png" alt="Settings & Integrations" width="800"/>
+</details>
+
+<details>
+<summary><b>Authentication & Registration</b></summary>
+<br>
+<img src="screenshots/02-authentication.png" alt="Authentication" width="800"/>
+</details>
