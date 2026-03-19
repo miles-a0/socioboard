@@ -145,3 +145,6 @@ Here is a glimpse of the Socioboard interface in action:
 
 ### 6. Authentication & Registration
 <img src="screenshots/02-authentication.png" alt="Authentication" width="800"/>
+
+### 7. Content Composer & Scheduling
+<img src="screenshots/07-post-composer.png" alt="Content Composer" width="800"/>
