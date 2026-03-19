@@ -1,0 +1,47 @@
+# Environments
+.env
+.env.local
+.env.*
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+*.db
+backend/socioboard.db
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+build/
+.npm
+package-lock.json
+
+# Local directories
+uploads/
+backend/uploads/
+
+# Output and Log Files
+*.log
+backend_logs*.txt
+facebook_logs.txt
+*.mp4
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
